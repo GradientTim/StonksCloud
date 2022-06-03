@@ -6,7 +6,7 @@
 <br>
 <h3 align="center"><strong>About me</strong></h3>
 <p align="center">
-  My name is Tim and I am 18 years old. I like to work with programming languages like<br> Java, ReactJS, VueJS or NodeJS. I like to program software that is helpful for many people.
+  My name is Tim and I am 19 years old. I like to work with programming languages like<br> Java, ReactJS, VueJS or NodeJS. I like to program software that is helpful for many people.
 </p>
 
 <div align="center">
